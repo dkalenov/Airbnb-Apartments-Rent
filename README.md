@@ -26,7 +26,7 @@ Based on the analysis, the following conclusions can be drawn:
 * Exploratory data analysis
 * Statistical analysis
 * Data visualization
-* Python:  Pandas, Matplotlib, Seaborn, PyGWalker
+* Python:  Pandas, Matplotlib, Seaborn, PyGWalker, Folium
 
 ## Project Status
 - [x] Data preprocessing analysis
